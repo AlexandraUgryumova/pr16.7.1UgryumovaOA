@@ -1,0 +1,8 @@
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova\pr16.7Ugryumova\bin\Debug\pr16.7Ugryumova.exe.config
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova\pr16.7Ugryumova\bin\Debug\pr16.7Ugryumova.exe
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova\pr16.7Ugryumova\bin\Debug\pr16.7Ugryumova.pdb
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova\pr16.7Ugryumova\obj\Debug\pr16.7Ugryumova.csproj.AssemblyReference.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova\pr16.7Ugryumova\obj\Debug\pr16.7Ugryumova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova\pr16.7Ugryumova\obj\Debug\pr16.7Ugryumova.csproj.CoreCompileInputs.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova\pr16.7Ugryumova\obj\Debug\pr16.7Ugryumova.exe
+C:\Users\Orpsosip\Desktop\саша\с шарп\pr16.7Ugryumova\pr16.7Ugryumova\obj\Debug\pr16.7Ugryumova.pdb
